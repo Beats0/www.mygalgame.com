@@ -3138,9 +3138,9 @@ div.panel input[type="text"]:focus {
 
 .dAnim:hover {
     z-index: 1000;
-    transform: scale(1.5) rotate(1deg);
-    -webkit-transform: scale(1.5) rotate(1deg);
-    -ms-transform: scale(1.5) rotate(1deg);
+    transform: scale(1.5) rotate(0deg);
+    -webkit-transform: scale(1.5) rotate(0deg);
+    -ms-transform: scale(1.5) rotate(0deg);
 }
 
 .hint, [data-hint] {
