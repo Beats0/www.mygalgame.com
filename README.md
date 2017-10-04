@@ -3531,6 +3531,10 @@ https://www.mygalgame.com/wp-content/plugins/advanced-browser-check/css/style.cs
 - p-z
 - keywords
 
+***failed：***
+- 夜月东升•暮日西沉～operation-sanctuary～.html
+- 白熊铃星群♪.html
+
 <br>
 
 ***2017-10-03***<br>
