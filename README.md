@@ -1,4 +1,4 @@
-<!-- ![](http://ww1.sinaimg.cn/large/006nOlwNgy1fk4vpbhaxzj30yv045wem.jpg) -->
+ ![LOGO](https://ww1.sinaimg.cn/large/006nOlwNgy1fk4vpbhaxzj30yv045wem.jpg)
 ### 🚀 [www.mygalgame.com](http://www.mygalgame.com)
 ### 🌟 [https://beats0.github.io/www.mygalgame.com](https://beats0.github.io/www.mygalgame.com)
 ### 👉 [GitHub Repository:https://github.com/Beats0/www.mygalgame.com](https://github.com/Beats0/www.mygalgame.com)
@@ -22,6 +22,31 @@
 
 #### List
 ```
+标题:花咲workspring！
+日期:2017-08-18
+链接:pan.baidu.com/s/1qXKraCs
+提取密码:A562
+
+标题:近月少女的礼仪2
+日期:2017-08-07
+链接:pan.baidu.com/s/1eR7dMs6
+提取密码:A561
+
+标题:罪之光Rendezvous
+日期:2017-08-07
+链接:pan.baidu.com/s/1qYfUXha
+提取密码:A560
+
+标题:美少女万华镜 -罪与罚的少女-
+日期:2017-08-05
+链接:pan.baidu.com/s/1jHNQk9S
+提取密码:A559
+
+标题:ISLAND
+日期:2017-08-04
+链接:pan.baidu.com/s/1mhHGzyg
+提取密码:A558
+
 标题:架向星空之桥AA
 日期:2016-07-18
 链接:pan.baidu.com/s/1ckhd5W
