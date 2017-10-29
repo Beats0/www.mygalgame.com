@@ -1,8 +1,8 @@
- ![LOGO](https://ww1.sinaimg.cn/large/006nOlwNgy1fk4vpbhaxzj30yv045wem.jpg)
+  ![LOGO](https://ww1.sinaimg.cn/large/006nOlwNgy1fk4vpbhaxzj30yv045wem.jpg)
 ### 🚀 [www.mygalgame.com](http://www.mygalgame.com)
 ### 🌟 [https://beats0.github.io/www.mygalgame.com](https://beats0.github.io/www.mygalgame.com)
 ### 👉 [GitHub Repository:https://github.com/Beats0/www.mygalgame.com](https://github.com/Beats0/www.mygalgame.com)
-#### 代码替换已全部完成，正在上传中......
+
 * [List](#list)
 * [Tree](#tree)
 * [http替换](#http替换)
@@ -3517,7 +3517,49 @@ https://www.mygalgame.com/wp-content/themes/mygalgame/ui/js/myblog_min.js?ver=1.
 ```
 https://beats0.github.io/www.mygalgame.com/js/myblog_min=1.1.1.js
 ```
+10月29日
+考虑到背景图片的兼容性与错误性，现在更改替换部分js文件：
+1.
+html
+```
+<span>苟利</span>
+<span>国家</span>
+<span>生死以</span>
+<span>岂能</span>
+<span>祸福</span>
+<span>趋避之</span>
+```
+替换为：
+```
+<span class="li_img1"></span>
+<span class="li_img2"></span>
+<span class="li_img3"></span>
+<span class="li_img4"></span>
+<span class="li_img5"></span>
+<span class="li_img6"></span>
+```
 
+```
+<div class="large"></div>
+```
+替换为：
+```
+<div class="large h_img"></div>
+```
+2.
+删除favorites.min=2.1.6.js
+```
+<script type='text/javascript' src='https://beats0.github.io/www.mygalgame.com/js/favorites.min=2.1.6.js'></script>
+```
+3.替换jquery,使用cdn，添加随机背景fade.js
+```
+<script type='text/javascript' src='https://beats0.github.io/www.mygalgame.com/js/jquery=1.12.4.js'>
+```
+替换为
+```
+<script src="https://cdn.bootcss.com/jquery/2.1.1/jquery.min.js"></script>
+<script src="https://beats0.github.io/www.mygalgame.com/js/fade.js"></script>
+```
 ##### 6. page
 
 ##### 7. tag
