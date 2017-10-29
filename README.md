@@ -22,6 +22,26 @@
 
 #### List
 ```
+标题:游魂 -It’s happy days-
+日期:2017-10-28
+链接:pan.baidu.com/s/1pKRO1cf
+提取密码:A566
+
+标题:时钟机关的Ley-line -朝雾中飘零之花-
+日期:2017-10-27
+链接:pan.baidu.com/s/1cpV1IQ
+提取密码:A565
+
+标题:时钟机关的Ley-line -残影之夜将明时-
+日期:2017-10-27
+链接:pan.baidu.com/s/1cpp1KE
+提取密码:A564
+
+标题:斩魔大圣
+日期:2017-10-26
+链接:pan.baidu.com/s/1qY7dOBy
+提取密码:A563
+
 标题:千恋*万花
 日期:2017-10-15
 链接:pan.baidu.com/s/1bo1hPO7
