@@ -325,7 +325,7 @@ $(document).ready(function(){
     post_thumbnail_link[316] = "https://ws1.sinaimg.cn/large/006nOlwNgy1fkxqskhobpj31hc0u042m.jpg";
     post_thumbnail_link[317] = "https://ws1.sinaimg.cn/large/006nOlwNgy1fkxqla7gagj31hc0xnqbc.jpg";
     post_thumbnail_link[318] = "https://ws1.sinaimg.cn/large/006nOlwNgy1fkxqlalbd3j31hc0u07bz.jpg";
-    post_thumbnail_link[319] = "https://ws1.sinaimg.cn/large/006nOlwNgy1fkxqsr0mm9j31hc11c7af.jpg";
+    post_thumbnail_link[319] = "https://ws1.sinaimg.cn/large/006nOlwNgy1fl0f33l8jlj31hc11c7af.jpg";
     post_thumbnail_link[320] = "https://ws1.sinaimg.cn/large/006nOlwNgy1fkxqlo64ilj31hc11n129.jpg";
     post_thumbnail_link[321] = "https://ws1.sinaimg.cn/large/006nOlwNgy1fkxqlbuq39j31hc12510f.jpg";
     post_thumbnail_link[322] = "https://ws1.sinaimg.cn/large/006nOlwNgy1fkxqsxpcx6j31hc0widmn.jpg";
