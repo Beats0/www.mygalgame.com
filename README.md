@@ -22,6 +22,16 @@
 
 #### List
 ```
+标题:Rewrite+
+日期:2017-10-28
+链接:pan.baidu.com/s/1hs6Eqsk
+提取密码:A568
+
+标题:游魂2 -you’re the only one-
+日期:2017-10-28
+购买:http://store.steampowered.com/app/552280/Tayutama2_youre_the_only_one_CHI_ver
+提取密码:A567
+
 标题:游魂 -It’s happy days-
 日期:2017-10-28
 链接:pan.baidu.com/s/1pKRO1cf
