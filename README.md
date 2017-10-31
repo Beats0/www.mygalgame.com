@@ -22,6 +22,16 @@
 
 #### List
 ```
+标题:月影的幻影 -解放之羽-
+日期:2017-10-31
+链接:pan.baidu.com/s/1qXZodHU
+提取密码:A570
+
+标题:朝霞之歌
+日期:2017-10-31
+链接:pan.baidu.com/s/1bo4668f
+提取密码:A569
+
 标题:Rewrite+
 日期:2017-10-29
 链接:pan.baidu.com/s/1hs6Eqsk
