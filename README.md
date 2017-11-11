@@ -3157,6 +3157,7 @@ wwww.galgame.com
 │                    ├─3
 │                    └─4
 ├─css
+├─fonts
 ├─highslide
 │       └─graphics
 ├─images

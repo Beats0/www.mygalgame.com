@@ -208,6 +208,11 @@ div[class*="success"] .badge {
 
 .panel-zan .badge {
     background-color: #d9534f;
+    display: inline-block;
+    position: absolute;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
 }
 
 .pagination-zan {
