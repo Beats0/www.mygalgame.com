@@ -3346,12 +3346,14 @@ wwww.galgame.com
 │        └─page
 │            └─2
 └─wp-content
-      └─themes
-          └─mygalgame
-              └─highslide
-                  └─graphics
-                      └─outlines
-
+      ├─themes
+      │    └─mygalgame
+      │        └─highslide
+      │            └─graphics
+      │                └─outlines
+      └─uploads
+          └─2015
+              └─12
 ```
 #### http替换
 ```
