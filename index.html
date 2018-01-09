@@ -13,8 +13,7 @@
     <script src="https://jancgk.github.io/Background/js/GalH.js"></script>
     <script src="https://cdn.bootcss.com/aplayer/1.6.0/APlayer.min.js"></script>
 </head>
-<body class="home blog logged-in" ondragstart="return false" aos-easing="ease-out-back" aos-duration="1000"
-      aos-delay="0">
+<body class="home blog logged-in" ondragstart="return false">
 <section class="hidden-xs">
     <ul class="cb-slideshow">
         <li><span class="li_img1"></span></li>
@@ -99,23 +98,23 @@
     <div class="footer-page-link col-md-2 pull-left">
         <div class="zan-page clearfix">
             <ul class="pagination pagination-zan">
-                <li><a href="https://beats0.github.io/www.mygalgame.com/page/N1/">1</a></li>
-                <li><a href="https://beats0.github.io/www.mygalgame.com/page/N2/">2</a></li>
+                <li><a href="https://beats0.github.io/www.mygalgame.com/page/N1/" target="_blank">N1</a></li>
+                <li><a href="https://beats0.github.io/www.mygalgame.com/page/N2/" target="_blank">N2</a></li>
             </ul>
         </div>
     </div>
     <div class="footer-page-link col-md-2">
         <div class="zan-page clearfix">
             <ul class="pagination pagination-zan">
-                <li><a href="https://beats0.github.io/www.mygalgame.com/page/1/">1</a></li>
-                <li><a href="https://beats0.github.io/www.mygalgame.com/page/2/">2</a></li>
-                <li><a href="https://beats0.github.io/www.mygalgame.com/page/3/">3</a></li>
-                <li><a href="https://beats0.github.io/www.mygalgame.com/page/4/">4</a></li>
-                <li><a href="https://beats0.github.io/www.mygalgame.com/page/5/">5</a></li>
-                <li><a href="https://beats0.github.io/www.mygalgame.com/page/6/">6</a></li>
+                <li><a href="https://beats0.github.io/www.mygalgame.com/page/1/" target="_blank">1</a></li>
+                <li><a href="https://beats0.github.io/www.mygalgame.com/page/2/" target="_blank">2</a></li>
+                <li><a href="https://beats0.github.io/www.mygalgame.com/page/3/" target="_blank">3</a></li>
+                <li><a href="https://beats0.github.io/www.mygalgame.com/page/4/" target="_blank">4</a></li>
+                <li><a href="https://beats0.github.io/www.mygalgame.com/page/5/" target="_blank">5</a></li>
+                <li><a href="https://beats0.github.io/www.mygalgame.com/page/6/" target="_blank">6</a></li>
                 <li><span>...</span></li>
-                <li><a href="https://beats0.github.io/www.mygalgame.com/page/72/">72</a></li>
-                <li><a href="https://beats0.github.io/www.mygalgame.com/page/2/">»</a></li>
+                <li><a href="https://beats0.github.io/www.mygalgame.com/page/72/" target="_blank">72</a></li>
+                <li><a href="https://beats0.github.io/www.mygalgame.com/page/2/" target="_blank">»</a></li>
             </ul>
         </div>
     </div>
@@ -129,8 +128,7 @@
         });
         /**兼容问题？emmmmm**/
         setTimeout(function () {
-            $(".aplayer-list").addClass("aplayer-list-hide");
-            $("li").css("text-align", "left")
+            $(".aplayer-list").addClass("aplayer-list-hide").children().css("text-align", "left");
         }, 3000);
         $('.hero__scroll').on('click', function (e) {
             $('html, body').animate({
