@@ -23,6 +23,8 @@
 #### Game List
 [所有游戏列表Game List](https://github.com/Beats0/www.mygalgame.com/tree/master/Game_list)
 
+https://github.com/Beats0/www.mygalgame.com/tree/master/Game_list
+
 #### Tree
 ```
 wwww.galgame.com
