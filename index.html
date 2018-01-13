@@ -13,15 +13,6 @@
     <script src="https://jancgk.github.io/Background/js/GalH.js"></script>
     <script src="https://cdn.bootcss.com/aplayer/1.6.0/APlayer.min.js"></script>
     <script src="https://jancgk.github.io/Background/js/hideseek.min.js"></script>
-    <script>
-        $(document).ready(function() {
-            $('#search-highlight').hideseek({
-                highlight: true
-            });
-        });
-    </script>
-    <style>
-    </style>
 </head>
 <body class="home blog logged-in" ondragstart="return false">
 <section class="hidden-xs">
@@ -141,6 +132,9 @@
     $(document).ready(function () {
         $('body').GalMenu({
             'menu': 'GalDropDown'
+        });
+        $('#search-highlight').hideseek({
+            highlight: true
         });
         /**兼容问题？emmmmm**/
         setTimeout(function () {
