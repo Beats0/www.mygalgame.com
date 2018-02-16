@@ -21,9 +21,9 @@
 * [相关配置及部分GitHub开源项目](#相关配置及部分github开源项目)
 
 #### Game List
-[所有游戏列表Game List](https://github.com/Beats0/www.mygalgame.com/tree/master/Game_list)
+[所有游戏列表Game List](https://beats0.github.io/www.mygalgame.com/Game_list/mygalgameList.html)
 
-https://github.com/Beats0/www.mygalgame.com/tree/master/Game_list
+https://beats0.github.io/www.mygalgame.com/Game_list/mygalgameList.html
 
 #### Tree
 ```
@@ -487,6 +487,15 @@ https://beats0.github.io/www.mygalgame.com
 #### 验证删除
 ```
 <script type="text/javascript">if (window["\x64\x6f\x63\x75\x6d\x65\x6e\x74"]["\x64\x6f\x6d\x61\x69\x6e"] != "\x6d\x79\x67\x61\x6c\x67\x61\x6d\x65\x2e\x63\x6f\x6d" && window["\x64\x6f\x63\x75\x6d\x65\x6e\x74"]["\x64\x6f\x6d\x61\x69\x6e"] != "\x77\x77\x77\x2e\x6d\x79\x67\x61\x6c\x67\x61\x6d\x65\x2e\x63\x6f\x6d") { window["\x6c\x6f\x63\x61\x74\x69\x6f\x6e"]["\x68\x72\x65\x66"] = "\x68\x74\x74\x70\x73\x3a\x2f\x2f\x77\x77\x77\x2e\x6d\x79\x67\x61\x6c\x67\x61\x6d\x65\x2e\x63\x6f\x6d\x2f\x3f\x67\x6f\x66\x64\x3d" + window["\x64\x6f\x63\x75\x6d\x65\x6e\x74"]["\x64\x6f\x6d\x61\x69\x6e"];}</script>
+```
+
+#### 首页链接替换
+```
+<a href="/"><i class="fa fa-home"></i>首页</a>
+```
+替换为：
+```
+<a href="https://beats0.github.io/www.mygalgame.com"><i class="fa fa-home"></i>首页</a>
 ```
 
 #### 配置替换
