@@ -5,6 +5,7 @@
 
 * [所有游戏列表Game List](#game-list)
 * [Tree](#tree)
+* [html生成器](#html生成器)
 * [http替换](#http替换)
 * [验证删除](#验证删除)
 * [配置替换](#配置替换)
@@ -475,6 +476,12 @@ wwww.galgame.com
           └─2015
               └─12
 ```
+
+
+#### html生成器
+
+https://beats0.github.io/www.mygalgame.com/templatesUpdate_index.html
+
 #### http替换
 ```
 https://www.mygalgame.com
