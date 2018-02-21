@@ -39,6 +39,11 @@
             width: 100%;
             height: 200px;
         }
+        p {
+            word-wrap:break-word;
+            word-break:break-all;
+            overflow: hidden;
+        }
         img {
             vertical-align: middle;
             max-width: 100%;
@@ -92,6 +97,7 @@
                     pwd:'',
                     pwd2:'',
                     note:'',
+                    page_footer:'',
                     info:''
                 },
                 methods: {
@@ -116,7 +122,7 @@
                         <label for="">fileName</label>
                         <input type="text" class="form-control" id="fileName" placeholder="eden"  v-model="fileName">
                         <br>
-                        https://beats0.github.io/www.mygalgame.com/{{fileName}}.html
+                        <p>https://beats0.github.io/www.mygalgame.com/{{fileName}}.html</p>
                         <br>
                         <label for="">git_url</label>
                         <input type="text" class="form-control" id="git_url" placeholder="https://beats0.github.io/www.mygalgame.com/eden.html" v-model="git_url">
@@ -164,6 +170,11 @@
                         <label for="">info</label>
                         <input type="text" class="form-control" id="info" placeholder="为html代码 PV/OP/ED/MD5" v-model="info">
                     </div>
+
+                    <div class="form-group item wrap mybody">
+                        <label for="">page footer</label>
+                        <input type="number" class="form-control" id="page_footer" placeholder="page number > 3" v-model.number="page_footer">
+                    </div>
                 </form>
         </div>
         <!--ouput-->
@@ -188,6 +199,10 @@
     "title": "{{title}}"
 }
                 </textarea>
+            </div>
+            <div class="item wrap mybody">
+                <h4>Page footer(pagination pagination-zan pull-right)</h4>
+                <textarea>&lt;li&gt;&lt;a href="https://beats0.github.io/www.mygalgame.com/page/N{{page_footer+1}}/"&gt;«&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://beats0.github.io/www.mygalgame.com/page/N{{page_footer+2}}/"&gt;N{{page_footer+2}}&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://beats0.github.io/www.mygalgame.com/page/N{{page_footer+1}}/"&gt;N{{page_footer+1}}&lt;/a&gt;&lt;/li&gt;&lt;li class="active"&gt;&lt;span&gt;N{{page_footer}}&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://beats0.github.io/www.mygalgame.com/page/N{{page_footer-1}}/"&gt;N{{page_footer-1}}&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://beats0.github.io/www.mygalgame.com/page/N{{page_footer-2}}/"&gt;N{{page_footer-2}}&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://beats0.github.io/www.mygalgame.com/page/N1/"&gt;N1&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://beats0.github.io/www.mygalgame.com/page/N{{page_footer-1}}/"&gt;»&lt;/a&gt;&lt;/li&gt;</textarea>
             </div>
         </div>
     </div>
