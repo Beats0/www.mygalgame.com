@@ -1,4 +1,4 @@
-  ![LOGO](https://ww1.sinaimg.cn/large/006nOlwNgy1fk4vpbhaxzj30yv045wem.jpg)
+![LOGO](https://ww1.sinaimg.cn/large/006nOlwNgy1fk4vpbhaxzj30yv045wem.jpg)
 ### 🚀 [www.mygalgame.com](http://www.mygalgame.com)
 ### 🌟 [https://beats0.github.io/www.mygalgame.com](https://beats0.github.io/www.mygalgame.com)
 ### 👉 [GitHub Repository:https://github.com/Beats0/www.mygalgame.com](https://github.com/Beats0/www.mygalgame.com)
@@ -359,7 +359,10 @@ wwww.galgame.com
 │    ├─8
 |    ├─9
 |    ├─N1
-│    └─N2
+|    ├─N2
+|    ├─N3
+|    ├─N4
+│    └─N5
 ├─tag
 │    ├─alcot社
 │    ├─alcot蜂巢社
