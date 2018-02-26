@@ -480,7 +480,6 @@ wwww.galgame.com
               └─12
 ```
 
-
 #### html生成器
 
 https://beats0.github.io/www.mygalgame.com/templatesUpdate_index.html
