@@ -896,7 +896,7 @@ ul.pills-zan li {
 
 .article iframe, .article embed {
     width: 100%;
-    height: 500px;
+    max-height: 200px;
 }
 
 @media (max-width: 1199px) {
