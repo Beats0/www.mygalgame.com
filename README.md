@@ -491,6 +491,7 @@ https://beats0.github.io/www.mygalgame.com/templatesUpdate_index.html
 
 - mygalgame(theme):[GitHub:mygalgame](https://github.com/Beats0/mygalgame)
 - Bootstrap(css,js):[GitHub:Bootstrap](https://github.com/twbs/bootstrap)
+- [busuanzi analyze](http://busuanzi.ibruce.info/)
 - AOS.js(css,js):[GitHub:AOS.js](https://github.com/michalsnik/aos)
 - hint(css):[GitHub:hint.css](https://github.com/chinchang/hint.css)
 - font-awesome：(css)[GitHub:font-awesome](https://github.com/FortAwesome/Font-Awesome)
