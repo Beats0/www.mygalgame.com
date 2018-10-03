@@ -2,10 +2,16 @@
 ### 🌟 [https://beats0.github.io/www.mygalgame.com](https://beats0.github.io/www.mygalgame.com)
 ### 👉 [mygalgame theme](https://github.com/Beats0/mygalgame)
 
+* [爬虫](#spider)
 * [所有游戏列表Game List](#game-list)
 * [Tree](#tree)
 * [Update Log](#update-log)
 * [相关配置及部分GitHub开源项目](#相关配置及部分github开源项目)
+
+#### Spider
+[for node](https://github.com/Beats0/scripter/blob/master/mygalgame.com_spider/mygal_spider.js)
+
+[for python](https://github.com/Beats0/scripter/blob/master/mygalgame.com_spider/mygal_spider.py)
 
 #### Game List
 
