@@ -17,7 +17,7 @@
 
 [所有游戏列表Game List](https://beats0.github.io/www.mygalgame.com/Game_list/mygalgameList.html)
 
-https://beats0.github.io/www.mygalgame.com/Game_list/mygalgameList.html
+[背景图yande.re_db](https://beats0.github.io/scripter/yande.re_db/)
 
 --------------------------------------------------------------
 
@@ -484,11 +484,6 @@ wwww.galgame.com
               └─12
 ```
 
---------------------------------------------------------------
-
-#### html生成器
-
-https://beats0.github.io/www.mygalgame.com/templatesUpdate_index.html
 
 --------------------------------------------------------------
 
