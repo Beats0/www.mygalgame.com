@@ -366,7 +366,8 @@ wwww.galgame.com
 │    ├─N11
 │    ├─N12
 │    ├─N13
-│    └─N14
+│    ├─N14
+│    └─N15
 ├─tag
 │    ├─alcot社
 │    ├─alcot蜂巢社
