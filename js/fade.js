@@ -1,6 +1,7 @@
 $(document).ready(function(){
     const re = /\w{4}/
-    const pwdText = document.querySelector('div.panel.panel-primary > div.panel-footer > b:nth-child(1) > span').innerText
+    const pwdEl = document.querySelector('div.panel.panel-primary > div.panel-footer > b:nth-child(1) > span')
+    const pwdText = pwdEl ? pwdEl.innerText : ''
     fetch('https://beats0.github.io/www.mygalgame.com/Game_list/mygalgameList.json')
       .then(response => response.json())
       .then(resData => {
@@ -10,7 +11,7 @@ $(document).ready(function(){
           linkBtn.setAttribute('onclick', `window.open('${data.addr}')`)
       })
       .catch(e => {
-          console.log('获取失败')
+          console.log('获取失败', e)
       })
 
     var post_thumbnail_link = new Array();
