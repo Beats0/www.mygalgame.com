@@ -17,7 +17,9 @@
 --------------------------------------------------------------
 
 #### Tree
-```
+<details>
+<summary>展开查看</summary>
+<pre><code>.
 wwww.galgame.com
 ├─Audio
 ├─category
@@ -481,8 +483,8 @@ wwww.galgame.com
       └─uploads
           └─2015
               └─12
-```
-
+</code></pre>
+</details>
 
 --------------------------------------------------------------
 
