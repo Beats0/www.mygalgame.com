@@ -10,6 +10,8 @@
 
 #### Game List
 
+注意: 链接改为了动态，需要等待几秒拉取数据才能获取正确的链接, 和谐较多的一般会一个月后全部自动重新更新
+
 [所有游戏列表Game List](https://beats0.github.io/www.mygalgame.com/Game_list/mygalgameList.html)
 
 [背景图yande.re_db](https://beats0.github.io/scripter/yande.re_db/)
