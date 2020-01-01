@@ -2,17 +2,19 @@ $(document).ready(function(){
     const re = /\w{4}/
     const pwdEl = document.querySelector('div.panel.panel-primary > div.panel-footer > b:nth-child(1) > span')
     const pwdText = pwdEl ? pwdEl.innerText : ''
-    fetch('https://beats0.github.io/www.mygalgame.com/Game_list/mygalgameList.json')
-      .then(response => response.json())
-      .then(resData => {
-          const item = resData.filter(i => i.pwd === pwdText.match(re)[0])
-          let data = item[0]
-          const linkBtn = document.querySelector('div.panel-body > a > button')
-          linkBtn.setAttribute('onclick', `window.open('${data.addr}')`)
-      })
-      .catch(e => {
-          console.log('获取失败', e)
-      })
+    if (pwdEl && pwdText) {
+        fetch('https://beats0.github.io/www.mygalgame.com/Game_list/mygalgameList.json')
+          .then(response => response.json())
+          .then(resData => {
+              const item = resData.filter(i => i.pwd === pwdText.match(re)[0])
+              let data = item[0]
+              const linkBtn = document.querySelector('div.panel-body > a > button')
+              linkBtn.setAttribute('onclick', `window.open('${ data.addr }')`)
+          })
+          .catch(e => {
+              console.log('获取失败', e)
+          })
+    }
 
     var post_thumbnail_link = new Array();
     //steamuserimages
