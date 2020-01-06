@@ -1,5 +1,18 @@
 $(document).ready(function(){
     const re = /\w{4}/
+    const sinaimgRe = /[http|https]*:\/\/ws[1-4].sinaimg/g
+    const sinaimgs = document.querySelectorAll('img')
+    const sinaLinks = document.querySelectorAll('a')
+    for (let i = 0; i < sinaimgs.length; i++) {
+        if(sinaimgRe.test(sinaimgs[i].src)) {
+            sinaimgs[i].src = sinaimgs[i].src.replace(sinaimgRe, 'http://wx1.sinaimg')
+        }
+    }
+    for (let i = 0; i < sinaLinks.length; i++) {
+        if(sinaimgRe.test(sinaLinks[i].href)) {
+            sinaLinks[i].href = sinaLinks[i].href.replace(sinaimgRe, 'http://wx1.sinaimg')
+        }
+    }
     const pwdEl = document.querySelector('div.panel.panel-primary > div.panel-footer > b:nth-child(1) > span')
     const pwdText = pwdEl ? pwdEl.innerText : ''
     if (pwdEl && pwdText) {
