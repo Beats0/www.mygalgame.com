@@ -1,6 +1,6 @@
 ### 🚀 [www.mygalgame.com](http://www.mygalgame.com)
-### 🌟 [https://beats0.github.io/www.mygalgame.com](https://beats0.github.io/www.mygalgame.com)
-### 👉 [mygalgame theme](https://github.com/Beats0/mygalgame)
+### 🌟 [https://beats0.github.io/www.mygalgame.com/](https://beats0.github.io/www.mygalgame.com/)
+### 👉 [mygalgame theme](https://github.com/Beats0/mygalgame/)
 
 * [所有游戏列表Game List](#game-list)
 * [Tree](#tree)
