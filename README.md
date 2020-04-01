@@ -2,19 +2,19 @@
 ### 🌟 [https://beats0.github.io/www.mygalgame.com/](https://beats0.github.io/www.mygalgame.com/)
 ### 👉 [mygalgame theme](https://github.com/Beats0/mygalgame/)
 
-* [所有游戏列表Game List](#game-list)
+* [Game List](#game-list)
 * [Tree](#tree)
 * [Update Log](#update-log)
-* [相关配置及部分GitHub开源项目](#相关配置及部分github开源项目)
+* [Open-source](#open-source)
 
 
 #### Game List
 
 注意: 链接改为了动态，需要等待几秒拉取数据才能获取正确的链接, 和谐较多的一般会一个月后全部自动重新更新
 
-[所有游戏列表Game List](https://beats0.github.io/www.mygalgame.com/Game_list/mygalgameList.html)
+[列表Game List](https://beats0.github.io/www.mygalgame.com/Game_list/mygalgameList.html)
 
-[背景图yande.re_db](https://beats0.github.io/scripter/yande.re_db/)
+[背景图](https://beats0.github.io/scripter/yande.re_db/)
 
 --------------------------------------------------------------
 
@@ -497,11 +497,10 @@ wwww.galgame.com
 
 --------------------------------------------------------------
 
-#### 相关配置及部分GitHub开源项目
+#### Open source
 
 - mygalgame(theme):[GitHub:mygalgame](https://github.com/Beats0/mygalgame)
 - Bootstrap(css,js):[GitHub:Bootstrap](https://github.com/twbs/bootstrap)
-- [busuanzi analyze](http://busuanzi.ibruce.info/)
 - AOS.js(css,js):[GitHub:AOS.js](https://github.com/michalsnik/aos)
 - hint(css):[GitHub:hint.css](https://github.com/chinchang/hint.css)
 - font-awesome：(css)[GitHub:font-awesome](https://github.com/FortAwesome/Font-Awesome)
