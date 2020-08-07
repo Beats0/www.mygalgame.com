@@ -1,6 +1,8 @@
 ### 🚀 [www.mygalgame.com](http://www.mygalgame.com)
-### 🌟 [https://beats0.github.io/www.mygalgame.com/](https://beats0.github.io/www.mygalgame.com/)
+### 🌟 [https://mynovel.life/www.mygalgame.com/](https://mynovel.life/www.mygalgame.com/)
 ### 👉 [mygalgame theme](https://github.com/Beats0/mygalgame/)
+
+[![](https://data.jsdelivr.com/v1/package/gh/Beats0/www.mygalgame.com/badge)](https://www.jsdelivr.com/package/gh/Beats0/www.mygalgame.com)
 
 * [Game List](#game-list)
 * [Tree](#tree)
@@ -10,11 +12,11 @@
 
 #### Game List
 
-网盘被永久禁封了，所有资源已失效，不再提供下载地址，当前仅作展示用，长期不维护中...
-
 ~~注意: 链接改为了动态，需要等待几秒拉取数据才能获取正确的链接, 和谐较多的一般会一个月后全部自动重新更新~~
 
-[列表Game List](https://beats0.github.io/www.mygalgame.com/Game_list/mygalgameList.html)
+网盘被永久禁封了，所有资源已失效，不再提供下载地址，当前仅作展示用，长期不维护中...
+
+[列表Game List](https://mynovel.life/www.mygalgame.com/Game_list/mygalgameList.html)
 
 [背景图](https://beats0.github.io/scripter/yande.re_db/)
 

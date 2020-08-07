@@ -16,7 +16,7 @@ $(document).ready(function(){
     const pwdEl = document.querySelector('div.panel.panel-primary > div.panel-footer > b:nth-child(1) > span')
     const pwdText = pwdEl ? pwdEl.innerText : ''
     if (pwdEl && pwdText) {
-        fetch('https://beats0.github.io/www.mygalgame.com/Game_list/mygalgameList.json')
+        fetch('https://mynovel.life/www.mygalgame.com/Game_list/mygalgameList.json')
           .then(response => response.json())
           .then(resData => {
               const item = resData.filter(i => i.pwd === pwdText.match(re)[0])

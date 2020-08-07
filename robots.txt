@@ -14,4 +14,4 @@ Disallow: /?s=*
 Disallow: /*/?s=*\
 Disallow: /attachment/
 Disallow: /go.php?
-Sitemap: https://beats0.github.io/www.mygalgame.com/sitemap.xml
+Sitemap: https://mynovel.life/www.mygalgame.com/sitemap.xml
